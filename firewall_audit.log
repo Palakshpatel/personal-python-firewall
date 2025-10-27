@@ -1,0 +1,16 @@
+[2025-10-27 05:28:52] [BLOCKED - PROTOCOL] ICMP (Ping) from 10.0.2.15 -> 8.8.8.8. DROPPED.
+[2025-10-27 05:28:52] [ENFORCED] Added iptables rule to DROP traffic from 10.0.2.15
+[2025-10-27 05:28:52] [BLOCKED - PROTOCOL] ICMP (Ping) from 8.8.8.8 -> 10.0.2.15. DROPPED.
+[2025-10-27 05:28:52] [ENFORCED] Added iptables rule to DROP traffic from 8.8.8.8
+[2025-10-27 05:28:53] [BLOCKED - PROTOCOL] ICMP (Ping) from 10.0.2.15 -> 8.8.8.8. DROPPED.
+[2025-10-27 05:28:53] [ENFORCED] Added iptables rule to DROP traffic from 10.0.2.15
+[2025-10-27 05:28:53] [BLOCKED - PROTOCOL] ICMP (Ping) from 8.8.8.8 -> 10.0.2.15. DROPPED.
+[2025-10-27 05:28:53] [ENFORCED] Added iptables rule to DROP traffic from 8.8.8.8
+[2025-10-27 05:28:54] [BLOCKED - PROTOCOL] ICMP (Ping) from 10.0.2.15 -> 8.8.8.8. DROPPED.
+[2025-10-27 05:28:54] [ENFORCED] Added iptables rule to DROP traffic from 10.0.2.15
+[2025-10-27 05:28:54] [BLOCKED - PROTOCOL] ICMP (Ping) from 8.8.8.8 -> 10.0.2.15. DROPPED.
+[2025-10-27 05:28:54] [ENFORCED] Added iptables rule to DROP traffic from 8.8.8.8
+[2025-10-27 05:28:55] [BLOCKED - PROTOCOL] ICMP (Ping) from 10.0.2.15 -> 8.8.8.8. DROPPED.
+[2025-10-27 05:28:55] [ENFORCED] Added iptables rule to DROP traffic from 10.0.2.15
+[2025-10-27 05:28:55] [BLOCKED - PROTOCOL] ICMP (Ping) from 8.8.8.8 -> 10.0.2.15. DROPPED.
+[2025-10-27 05:28:55] [ENFORCED] Added iptables rule to DROP traffic from 8.8.8.8
